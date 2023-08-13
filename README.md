@@ -13,7 +13,10 @@ Task-2 Smart parking System
 Smart parking systems are widely used to improve People’s Daily life, so the use of smart parking systems is expected to increase constantly. The system can also add the following advanced functions, making it a multi-functional management tool.
 
 . Parking demand management and space optimization
+
 . Personalized parking guidance
 parking reservation system
+
 .dynamic parking price and policy optimization
+
 .parking area, charging, illegal parking detection
